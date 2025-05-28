@@ -1,7 +1,7 @@
 # Contributing to PapersWithSummary
 
 Thank you for considering contributing to this project!  
-Our goal is to build a community-curated collection of research paper summaries across AI, ML, NLP, CV, and beyond.
+Our goal is to build a community-curated collection of research paper summaries across LLM, Fine Tuning, Agentic AI, Prompt Engineering, NLP, CV, and beyond.
 
 ## 📌 Purpose of This Repository
 
