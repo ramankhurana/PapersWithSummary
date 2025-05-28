@@ -22,7 +22,7 @@ Brief overview of the paper's goals and findings.
 What is new in this paper.
 
 ## 🔬 Methodology
-What was done and how.
+What was done and how?
 
 ## 📊 Results
 Main findings or performance highlights.
@@ -30,5 +30,8 @@ Main findings or performance highlights.
 ## ❗ Limitations / Assumptions
 Limitation of algorithm or methodology. What is not done but would be useful to see in this paper?
 
-## Impact on Real World
-What is the impact of the business or real World? How this study can be useful for future research or businesses for adaption of AI. 
+## 🌍 Impact on Real World
+What is the impact of the business or real World? How this study can be useful for future research or businesses for adaption of AI?
+
+## 📚 Related Papers 
+Suggestions for further reading. 
