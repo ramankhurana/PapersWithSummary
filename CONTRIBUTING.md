@@ -13,7 +13,6 @@ This repository hosts paper summaries that make key research ideas more accessib
 
 You can follow this format—but you're not required to. Feel free to adapt based on the nature of the paper.
 
-```markdown
 # Title: [Paper Title]
 
 ## 📝 Summary
