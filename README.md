@@ -6,11 +6,19 @@ This repository curates high-impact research papers in AI, ML, and Data Science 
 - Papers are categorized by topic (e.g., NLP, LLM, etc.). 
 - Each summary links to the original paper and contains:
 📌 Title
+
 📎 Paper link
+
 ✏️ Summary
+
 💡 Key Contributions
+
 ❗ Limitations
+
+🌍 Impact on Real World
+
 📚 Related Papers
+
 
 If possible, how business can use it or how it can create an impact on businesses or real life use cases.
 
